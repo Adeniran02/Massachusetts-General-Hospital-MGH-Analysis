@@ -11,11 +11,11 @@ This project takes a close look at how Massachusetts General Hospital is doing b
 
 
 
-## 🛠️ My Technical Stack and Overview of this Project
-  1. Data Source: 1,000 Patient records (2011–2022) curated by the amazing experts at Maven Analytics.
-  2. SQL: Complex querying for data validation, 30-day readmission logic, and cost aggregations.
-  3. Power BI (DAX): Advanced time-intelligence (YOY, YTD), dynamic filtering, and custom KPI development.
-  4. Data Modeling: Star Schema architecture to optimize report performance.
+## 🛠️ My Technical Stack and Project Overview
+  1. **Data Source**: 1,000 Patient records (2011–2022) curated by the amazing experts at Maven Analytics.
+  2. **SQL**: Complex querying for data validation, 30-day readmission logic, and cost aggregations.
+  3. **Power BI (DAX)**: Advanced time-intelligence (YOY, YTD), dynamic filtering, and custom KPI development.
+  4. **Data Modeling**: Star Schema architecture to optimize report performance.
 
 
 # Let's Walkthrough the Report Quickly📊
