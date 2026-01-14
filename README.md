@@ -26,6 +26,7 @@ Focus: Operational Efficiency
 ![Executive Overview](./Health_Care_Analysis_Page_1.png)
 
 **Key Insight**: While the hospital handled 28k encounters, 96% of stays were under 24 hours. By identifying the 4% outlier "Long Stays," administrators can optimize bed-turnover rates.
+
 **Tech Highlight**: Implemented a CY vs LY Volume measure to track hospital growth trends in real-time.
 
 
@@ -35,6 +36,7 @@ Focus: Revenue Cycle Management
 ![Cost & Procedure](./Health_Care_Analysis_Page_2.png)
 
 **Key Insight**: Discovered a 48.71% Coverage Gap where insurance paid $0. Medicaid was identified as the largest payer partner ($6.21K in total claims averagely).
+
 **Cost vs. Frequency**: I created a dual-axis chart proving that high-volume procedures like "Electrical Cardioversion" are more significant revenue drivers than one-off high-cost ICU admissions.
 
 
